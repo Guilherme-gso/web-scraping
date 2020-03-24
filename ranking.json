@@ -1,0 +1,14 @@
+{
+  "points": [
+    {"pos": 1, "player": "James Harden", "team": "HOU", "total": 2096}, 
+    {"pos": 2, "player": "Trae Young", "team": "ATL", "total": 1778}, 
+    {"pos": 3, "player": "Bradley Beal", "team": "WAS", "total": 1741}, 
+    {"pos": 4, "player": "Giannis Antetokounmpo", "team": "MIL", "total": 1690}, 
+    {"pos": 5, "player": "Damian Lillard", "team": "POR", "total": 1677}, 
+    {"pos": 6, "player": "Devin Booker", "team": "PHX", "total": 1619}, 
+    {"pos": 7, "player": "Luka Doncic", "team": "DAL", "total": 1549}, 
+    {"pos": 8, "player": "LeBron James", "team": "LAL", "total": 1544}, 
+    {"pos": 9, "player": "Zach LaVine", "team": "CHI", "total": 1530}, 
+    {"pos": 10, "player": "Donovan Mitchell", "team": "UTA", "total": 1525}
+  ]
+}
